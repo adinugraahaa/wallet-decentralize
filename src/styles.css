@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto:300');
+html{
+  max-width: 100%;
+  overflow-x: hidden;
+  }
+
+body{
+font-family: 'Roboto', sans-serif !important;
+font-family: 'Roboto Condensed', sans-serif !important;
+background-color: #272b41 !important;
+color: #afb9ca !important;
+max-width: 100%;
+overflow-x: hidden;
+}
