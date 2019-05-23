@@ -7,7 +7,7 @@ input{
 }
 
 .decen{
-    background-color: transparent;
+    background-color: #eee7df;
 }
 
 .form-check-label{
@@ -32,17 +32,16 @@ input{
 }
 
 #con1{
-    background-color: #1c1f32;
 }
 
 .nav li.nav-item a.nav-link.active{
     background-color: transparent;
     border: none;
-    color: #007BFF;
+    color: #000;
 }
 
 .nav li.nav-item a.nav-link{
-    color: #AFB9CA;
+    color: #007BFF;
 }
 
 #btn-search {
